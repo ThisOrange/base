@@ -73,4 +73,8 @@ The figure below illustrates this behavior using an example.
 1. The User is able to activate said System and it sends a signal to the controller reducing the speed to 0.
 1. Upon activation the system needs to disregard the position of the joystick and needs to apply the breaks as well as reducing the reference speed to 0.
 
+<<<<<<< HEAD
 This changed!
+=======
+Ezt változtatom!
+>>>>>>> branch-B
