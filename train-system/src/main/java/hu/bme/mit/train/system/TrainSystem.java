@@ -18,8 +18,7 @@ public class TrainSystem {
 	}
 
 	public TrainSensor getSensor() {
-		throw new RuntimeException();
-		//return sensor;
+		return sensor;
 	}
 
 	public TrainUser getUser() {
