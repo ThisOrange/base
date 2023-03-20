@@ -18,12 +18,11 @@ public class TrainSystem {
 	}
 
 	public TrainSensor getSensor() {
-		return sensor;
+		throw new RuntimeException();
+		//return sensor;
 	}
 
 	public TrainUser getUser() {
 		return user;
 	}
-	Hello
-
 }
